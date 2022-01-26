@@ -571,3 +571,7 @@ io.send(p32(0, endian="big"))
 
 io.interactive()
 ```
+
+# Others writeup
+https://r3kapig.com/writeup/20220125-rwctf4/
+
